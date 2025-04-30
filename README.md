@@ -29,6 +29,11 @@ LinkedIn - [Muhammad Abdullah](https://www.linkedin.com/in/mabdullah97/)
 | Livaat Metaverse                                       | Solidity       | Private                                                                                                                                           |
 | Enjoyoors                                              | Rust , Solana  | Private                                                                                                                                           |
 
+# Public Contest
+|Date|Platform|Protocol|Position|Findings|
+|----|--------|--------|--------|--------|
+|Mar 2025| Cantina| [ColorPool](https://cantina.xyz/competitions/7db75599-9dad-40aa-9fc7-e879803eea2b/leaderboard)| 13|1H,3M|
+
 # Responsible Disclosures
 | Issue                                               | Company        | Writeup/HOF                                                                                                                        |
 | --------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
