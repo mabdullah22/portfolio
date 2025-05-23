@@ -28,12 +28,18 @@ LinkedIn - [Muhammad Abdullah](https://www.linkedin.com/in/mabdullah97/)
 | Alethai.ai - pump.fun clone for AI agents              | Rust , Solana  | Private                                                                                                                                           |
 | Livaat Metaverse                                       | Solidity       | Private                                                                                                                                           |
 | Enjoyoors                                              | Rust , Solana  | Private                                                                                                                                           |
+|Toucan LightLink - Cross-Chain Governance & LayerZero OFTs|Solidity||
+
 
 # Public Contest
 |Date|Platform|Protocol|Position|Findings|
 |----|--------|--------|--------|--------|
 |Mar 2025| Cantina| [ColorPool](https://cantina.xyz/competitions/7db75599-9dad-40aa-9fc7-e879803eea2b/leaderboard)| 13|1H,3M|
 
+# Hackathons
+|Name|Submission|Position|
+|----|----------|--------|
+|REDACTED(2025)|[Overlooked web2 vulnerabilities in web3 Realm](https://vigorous-clover-064.notion.site/Overlooked-web2-vulnerabilities-in-web3-Realm-1e5c1cbcc8e18046ba2cda9189deba0d)| Winner :trophy: [Announcement](https://www.helius.dev/blog/redacted-hackathon-winners#guvenkaya-web2-security-issues-in-web3-5000)
 # Responsible Disclosures
 | Issue                                               | Company        | Writeup/HOF                                                                                                                        |
 | --------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
