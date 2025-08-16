@@ -29,6 +29,7 @@ LinkedIn - [Muhammad Abdullah](https://www.linkedin.com/in/mabdullah97/)
 | Livaat Metaverse                                       | Solidity       | Private                                                                                                                                           |
 | Enjoyoors                                              | Rust , Solana  | Private                                                                                                                                           |
 |Toucan LightLink - Cross-Chain Governance & LayerZero OFTs|Solidity||
+|Metapool | Rust , Near| [Audit Report](https://github.com/BlockApex/Audit-Reports/blob/master/Metapool%20NEAR%20Audit%20Report.pdf)
 
 
 # Public Contest
