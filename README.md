@@ -25,11 +25,13 @@ LinkedIn - [Muhammad Abdullah](https://www.linkedin.com/in/mabdullah97/)
 | Stakera - Lottery Protocol                             | Rust , Solana  | [Audit Report](https://github.com/BlockApex/Audit-Reports/blob/master/Stakera%20Solana%20Final%20Audit%20Report.pdf)                              |
 | Stashed Wallet Extension - Chrome Wallet Extension     |                | [Audit Report](https://github.com/BlockApex/Audit-Reports/blob/master/Stashed%20Wallet%20Extension%20%20Peneting%20Report%20%20Report%20%232.pdf) |
 | Pumpkin.fun                                            | Rust , Solana  | [Audit Report](https://github.com/BlockApex/Audit-Reports/blob/master/Pumpkin.fun%20Final%20Audit%20Report%20%7C%20BlockApex.pdf)                 |
+| Dorafactory (Dora Bridge)| Solidity | Private | 
 | Alethai.ai - pump.fun clone for AI agents              | Rust , Solana  | Private                                                                                                                                           |
 | Livaat Metaverse                                       | Solidity       | Private                                                                                                                                           |
 | Enjoyoors                                              | Rust , Solana  | Private                                                                                                                                           |
 |Toucan LightLink - Cross-Chain Governance & LayerZero OFTs|Solidity||
 |Metapool | Rust , Near| [Audit Report](https://github.com/BlockApex/Audit-Reports/blob/master/Metapool%20NEAR%20Audit%20Report.pdf)
+|TMAI| Solidity, Ethereum| Private |
 
 
 # Public Contest
