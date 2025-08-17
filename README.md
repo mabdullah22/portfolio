@@ -31,7 +31,7 @@ LinkedIn - [Muhammad Abdullah](https://www.linkedin.com/in/mabdullah97/)
 | Enjoyoors                                              | Rust , Solana  | Private                                                                                                                                           |
 |Toucan LightLink - Cross-Chain Governance & LayerZero OFTs|Solidity||
 |Metapool | Rust , Near| [Audit Report](https://github.com/BlockApex/Audit-Reports/blob/master/Metapool%20NEAR%20Audit%20Report.pdf)
-|TMAI| Solidity, Ethereum| Private |
+|TokenMetrics (TMAI)| Solidity, Ethereum| Private |
 
 
 # Public Contest
