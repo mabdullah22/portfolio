@@ -9,8 +9,9 @@ Currently Working at Smart Contract Auditor at [Blockapex](blockapex.io)
 
 For private audits or security consulting, please reach out to me on:
 
-Twitter - [@0xabdullahx0](https://x.com/0xabdullahx0)
-LinkedIn - [Muhammad Abdullah](https://www.linkedin.com/in/mabdullah97/)
+Twitter - [@0xabdullahx0](https://x.com/0xabdullahx0) \
+LinkedIn - [Muhammad Abdullah](https://www.linkedin.com/in/mabdullah97/) \
+Calendly - [Book a Call](https://calendly.com/mabdullah22)
 
 # Team Audit Reports
 | Protocol                                               | Type           | Audit Report                                                                                                                                      |
