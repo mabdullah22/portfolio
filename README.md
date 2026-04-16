@@ -32,7 +32,9 @@ Calendly - [Book a Call](https://calendly.com/mabdullah22)
 | Enjoyoors                                              | Rust , Solana  | Private                                                                                                                                           |
 |Toucan LightLink - Cross-Chain Governance & LayerZero OFTs|Solidity||
 |Metapool | Rust , Near| [Audit Report](https://github.com/BlockApex/Audit-Reports/blob/master/Metapool%20NEAR%20Audit%20Report.pdf)
-|TokenMetrics (TMAI)| Solidity, Ethereum| Private |
+|TokenMetrics (TMAI)| Solidity, Ethereum| Private Audit |
+|Zynk Labs|Rust, Solana | Private Audit|
+|Polymesh| Substrate, L1 | Private Audit|
 
 
 # Public Contest
